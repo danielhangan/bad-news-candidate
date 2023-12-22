@@ -11,7 +11,7 @@ export const Header = () => {
           className="w-8 h-8 sm:w-9 sm:h-9"
         />
         <h1 className="ml-2 text-2xl font-bold tracking-tight sm:text-3xl">
-          honesthire.io
+          foresthire.com
         </h1>
       </Link>
       <a
