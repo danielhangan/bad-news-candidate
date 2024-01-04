@@ -17,17 +17,17 @@ export default function RootLayout({
           name="description"
           content="Transforming Rejections into Constructive Feedback"
         />
-        <meta property="og:title" content="HonestHire - Transforming Rejections into Constructive Feedback" />
+        <meta property="og:title" content="Foresthire - Transforming Rejections into Constructive Feedback" />
         <meta
           property="og:description"
-          content="HonestHire - Transforming Rejections into Constructive Feedback"
+          content="Foresthire - Transforming Rejections into Constructive Feedback"
         />
         {/* <meta property="og:image" content="/images/og-image.png" /> */}
         {/* <meta name="twitter:card" content="summary_large_image" /> */}
-        <meta name="twitter:title" content="HonestHire - Transforming Rejections into Constructive Feedback" />
+        <meta name="twitter:title" content="Foresthire - Transforming Rejections into Constructive Feedback" />
         <meta
           name="twitter:description"
-          content="HonestHire - Transforming Rejections into Constructive Feedback"
+          content="Foresthire - Transforming Rejections into Constructive Feedback"
         />
         {/* <meta name="twitter:image" content="/images/og-image.png" /> */}
       </head>
